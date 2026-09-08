@@ -1,4 +1,4 @@
-# Sistem Manajemen Fasilitass Taman Kota🌳🛝🌻
+# Sistem Manajemen Fasilitas Taman Kota🌳🛝🌻
 
 ## Deskripsi Singkat
 Sistem Manajemen Fasilitas Taman Kota adalah program yang berbasis Java. Program ini digunakan untuk mengelola data fasilitas yang terdapat pada taman kota. Program ini menerapkan konsep Pemrograman Berorientasi Objek (PBO) dan memiliki fitur CRUD (Create, Read, Update, dan Delete) untuk menambah, menampilkan mengubah, dan menghapus data fasilitas.
@@ -40,7 +40,7 @@ Data fasilitas yang dikelola adalah:
 <img width="564" height="1136" alt="image" src="https://github.com/user-attachments/assets/559c804a-d21c-40ed-95f9-0661ec43b824" />
 
 
-**4. Jika Pengguna memilih menu 2 yaitu Tambah Fasilitas, Pengguna memasukkan ID, nama, jenis, kondisi, dan jumlah fasilitas. Data kemmudian disimpan ke dalam 'ArrayList'.**
+**4. Jika Pengguna memilih menu 2 yaitu Tambah Fasilitas, Pengguna memasukkan ID, nama, jenis, kondisi, dan jumlah fasilitas. Data kemudian disimpan ke dalam 'ArrayList'.**
 
 <img width="472" height="346" alt="image" src="https://github.com/user-attachments/assets/cc08c44c-e883-4aff-bbcb-e36102619623" />
 
