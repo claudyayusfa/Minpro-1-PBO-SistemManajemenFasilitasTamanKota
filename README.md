@@ -51,4 +51,9 @@ Data fasilitas yang dikelola adalah:
 8. Program akan terus berjalan menggunakan perulangan sampai user memilih menu keluar dari program.
 <img width="894" height="478" alt="image" src="https://github.com/user-attachments/assets/8fe29c0c-bb26-42db-acc4-e0952790a1e4" />
 
+## Penjelasan Letak Penerapan Nilai Tambah
+Program menerapkan nilai tambah sebagai berikut:
+### 1. Access Modifier
+Access modifier 'private' diterapkan pada atribut class 'Fasilitas' untuk membatasi akses langsung terhadap data.
+***Letak Penerapan:*** 'models/Fasilitas.java'
     
