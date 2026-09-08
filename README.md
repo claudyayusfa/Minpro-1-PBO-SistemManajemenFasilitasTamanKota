@@ -26,6 +26,17 @@ Data fasilitas yang dikelola adalah:
 
 ## Alur Program
 **1. Program dijalankan melalui class 'Main'.**
+<p align="center">
+  <b>Hasil Tambah Fasilitas</b>
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="<img width="738" height="396" alt="image" src="https://github.com/user-attachments/assets/1e44a2dd-cced-4554-b058-fa3df6c34d85" />" width="700">
+    </td>
+  </tr>
+</table>
 <img width="738" height="396" alt="image" src="https://github.com/user-attachments/assets/1e44a2dd-cced-4554-b058-fa3df6c34d85" />
 
 **2. Program menampilkan menu utama Sistem Manajemen Fasilitas Taman Kota dan pengguna memilih menu menggunakan input angka.**
